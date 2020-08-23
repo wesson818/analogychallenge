@@ -7,7 +7,9 @@ The relationship are often found in this analogy App including: Part to Whole, T
 Those high level analogy words designed for the many levels of test takers, you may get number of question wrong, Don't worry! This is prefect learning source for you! You will master all of them at the end! 
 
 Web Application Link: https://wesson818.github.io/analogychallenge/
+
 [![INSERT YOUR GRAPHIC HERE](https://github.com/wesson818/analogychallenge/blob/master/WebQRCode.png)]()
 
 iOS App Store Link: http://apps.apple.com/au/app/analogy-master/id1527897917
+
 [![INSERT YOUR GRAPHIC HERE](https://github.com/wesson818/analogychallenge/blob/master/iOSQRCode.png)]()
